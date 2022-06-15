@@ -1,0 +1,53 @@
+bueno ya tengo la idea base principal 
+se usara la libreria de la cual sera en python con la libreria el cual "turtle"
+
+
+tambien que es completamente modificable para esta asignatura  de este programa con la cual se es definida
+ de la instancia declarada  >> atravez de un puntero o vector el cual dado un bucle segmentado se ira declarando la instancia dibujando un asi un grafico
+
+
+de este modo definiendo este programa se ira construyendo la instancia acerca de  esta libreria  con el proposito conjuntado 
+tanto asi con este prespectivo ensayo de un material previo
+
+turtle como base de referencia de compajinado del vector de arranque para la estructura  de este programa 
+asi tambien no necesita la instancia de declarar anidando el proceso  dentro de la libreria ya declarada que es python tanto asi se graficando atravez 
+de un vector cuales realizara un determinado paso para que este grafique en la screen que genera la libreria atravez de las instancias
+asi tambien se llega a declara  sequencias de declaradas de  un proposito 
+
+
+* se utilizara vectores 
+* funciones
+* la libreria es  sencilla 
+* declarar instancias 
+* programas base
+
+
+
+https://replit.com/talk/learn/Coding-a-Simple-Python-Turtle-Game-part-one-Importing-Modules/36408
+
+https://www.geeksforgeeks.org/turtle-programming-python/
+https://freshlybuilt.com/graphic-design-in-python-using-pygame-and-turtle/
+
+https://duckduckgo.com/?q=how+adding+in+pygame+turtle&ia=web
+https://pythonsandbox.com/turtle
+https://nickmccullum.com/python-turtle/
+
+https://duckduckgo.com/?q=turtle+python+download&iax=images&ia=images&iai=https%3A%2F%2Fwww.abhijitpatra.com%2Fwp-content%2Fuploads%2F2021%2F08%2F16821.png
+https://github.com/PythonTurtle/PythonTurtle
+
+
+https://www.youtube.com/watch?v=NynjHwS5S8E
+https://turtle.readthedocs.io/en/latest/installation.html
+https://pypi.org/project/PythonTurtle/
+
+https://www.tutorialspoint.com/how-to-install-tkinter-in-python
+https://comp.lang.python.narkive.com/cuW9VhKw/installing-python-3-8-3-with-tkinter
+https://pythonturtle.org/
+https://www.educba.com/python-turtle/
+https://docs.python.org/3/library/turtle.html
+https://duckduckgo.com/?q=python+turtle&ia=web
+https://www.youtube.com/watch?v=NynjHwS5S8E
+https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.NgSFqGxhqEEC73ujL4s31QHaEK%26pid%3DApi&f=1
+https://duckduckgo.com/?q=python+graphics+vectors&iax=images&ia=images&iai=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fjs45JfjpTq0%2Fmaxresdefault.jpg
+
+ 

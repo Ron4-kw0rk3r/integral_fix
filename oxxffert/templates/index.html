@@ -1,0 +1,86 @@
+<!-- render_template function answer off time solution -->
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="author" content="Bryan Ronaldo">
+        <meta name="viewport" content="widht=device=width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
+        <title> ANSWER RESOLVER </title>
+        <style>
+            body{ color: #f1f1f1;
+                margin: 40px;
+                background-color: #000000;
+                font-family: "Trirong";
+            }
+            input{
+                color: #000000;
+				font-size: 25px;
+				border: none;
+				font: arial;
+				
+				width: 300px;
+				height: 50px;
+				border-radius: 9px;
+            }
+            
+            input[type=submit]{
+                color: #f1f1f1;
+	            background-color:  #F10000;
+	            font-size: 26px;
+	            border: none;
+	            font: arial;
+	            width: 220px;
+	            height: 40px;
+	            padding: 400 400px;
+	            cursor: pointer;
+	            font: arial;
+            }
+            input[type=submit]:hover{
+                color: rgb(255, 255, 255);
+	            background-color: rgba(117, 241, 200);
+            }
+        </style>
+    </head>
+    <body>
+        <center><h1> calculator </h1> </center>
+        <section class="clubsters">
+            <form action="/clubsters"  method="POST">
+                <label for="data"> Entrada de Valores :  </label>
+                <p><center> <input  placeholder="value" name="value_1" /></center>  </p>
+                
+                <p> <center> <input type="submit" value="evaluador" id="calc_eval" class="btn"  /> </center> </p>
+                <br>
+                <h3> this is result: </h3>
+                <h3> <center> {{ result }} </center> </h3>
+            </form>
+        </section>
+        <section class="strangerman">
+            <form action="/strangerman" method="POST">
+                <label for="raiz_make"> Entrada raiz : </label>
+                <p> <center> <input type='number' placeholder="raiz" name="sq_raiz" /> </center> </p>
+                <p> <center> <input type="submit" name="resolv" id="calc_raiz" class="btn" /> </p>
+                <br>
+                <h3> this is result: </h3>
+                <h3> <center> {{ ravengold }} </center> </h3>
+                
+            </form>
+        </section> 
+
+        <section class="integrals">
+            <form action="/integrals" method="POST">
+                <label for=complex> Entrada integral </label>
+                <p> <center> <input placeholder="integral" name="ingral_1" /> </center> </p>
+                <p> <center> <input type="submit" value="integral" id="valuer" class="btn">
+                <select name="verify">
+                    <option value="derivate"> derivada </option>
+                    <option value="integral"> integral </option>
+                </select>
+                <br>
+                <h2> this is result: </h2>
+                <h3>  {{ hoolview }} </h3>
+            </form>
+        </section>  
+    </body>    
+
+</html>
